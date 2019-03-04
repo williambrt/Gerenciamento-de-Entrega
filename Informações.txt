@@ -1,0 +1,3 @@
+Foi criado apenas dois programas separados, um deles cadastra os clientes e outro cadastra os vendedores.
+Pra testar-los: Basta usar alguma ferramenta que utilize cobol
+                baixar os arquvios, compilar e executar.
